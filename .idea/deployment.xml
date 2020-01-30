@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="afs">
+    <serverData>
+      <paths name="afs">
+        <serverdata>
+          <mappings>
+            <mapping deploy="WebStormProject.example" local="$USER_HOME$/WebStormProject/WebStormProject.example" web="/WebStormProject.example" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/afs/cad/u/a/i/ai222/public_html/WebStormProjcet " />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
